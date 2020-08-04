@@ -1,0 +1,3 @@
+LIBRARY utilFunctions_C.pyd
+EXPORTS
+initutilFunctions_C
