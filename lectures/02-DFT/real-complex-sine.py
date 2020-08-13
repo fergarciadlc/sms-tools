@@ -23,7 +23,7 @@ plt.ylabel('amplitude')
 plt.show()
 
 """
-This script computes a real sine wave of the form:
+This script computes a complex sine wave of the form:
 s_k[n] = exp[j 2 pi k n / N] = cos(2 pi k n / N) +j sin(2 pi k n / N)
 """
 N = 500
